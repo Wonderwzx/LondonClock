@@ -1,0 +1,22 @@
+.clk {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+input {
+    outline-style: none;
+    border: 0px;
+    width: 28px;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.container{
+    border-style: solid;
+    border-width: 8px;
+    border-color: black;
+    height: 100px;
+    width: 250px;
+    margin-left: 40%;
+    margin-top: 50px;
+}
